@@ -1,5 +1,4 @@
 import streamlit as st
-
 # Install necessary packages
 !pip install flask pyngrok
 
