@@ -1,6 +1,6 @@
 import streamlit as st
 # Install necessary packages
-!pip install flask pyngrok
+"""!pip install flask pyngrok
 
 from flask import Flask
 from pyngrok import ngrok
@@ -8,7 +8,7 @@ from pyngrok import ngrok
 # Replace "YOUR_NGROK_AUTH_TOKEN" with your actual ngrok auth token
 ngrok.set_auth_token("YOUR_NGROK_AUTH_TOKEN")
 
-app = Flask(_name_)
+app = Flask(_name_)"""
 
 # HTML content as a Python string
 html_content = """
