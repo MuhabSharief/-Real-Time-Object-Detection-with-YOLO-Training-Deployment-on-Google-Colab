@@ -6,7 +6,7 @@ from flask import Flask
 from pyngrok import ngrok
 
 # Replace "YOUR_NGROK_AUTH_TOKEN" with your actual ngrok auth token
-ngrok.set_auth_token("YOUR_NGROK_AUTH_TOKEN")
+ngrok.set_auth_token("2nZHie6XpmNvdTTkLDNL30IEPEl_2nBnfardck4a6K5rru5XN")
 
 app = Flask(_name_)"""
 
