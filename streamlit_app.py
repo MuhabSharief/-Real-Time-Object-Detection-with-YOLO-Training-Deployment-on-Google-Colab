@@ -11,7 +11,7 @@ ngrok.set_auth_token("2nZHie6XpmNvdTTkLDNL30IEPEl_2nBnfardck4a6K5rru5XN")
 app = Flask(_name_)"""
 
 # HTML content as a Python string
-html_content = """
+html_content = 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -145,7 +145,6 @@ html_content = """
     </script>
 </body>
 </html>
-"""
 
 # Define the Flask route
 @app.route('/')
